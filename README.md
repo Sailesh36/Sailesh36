@@ -1,20 +1,17 @@
-<h1 align="center">Hi 👋, I'm Sailesh a.k.a Kunnu</h1>
+<h1 align="center">Hi 👋, I'm Sailesh</h1>
 <h3 align="center">Just a normal guy who's still learning to program and is passionate about computers....</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sailesh36&label=Profile%20views&color=0e75b6&style=flat" alt="sailesh36" /> </p>
 
-<p align="left"><img src="https://c.tenor.com/TyhWL7gJwPgAAAAj/peppo-dance.gif" alt="some random gif..." width="50" /></p>
+- 🔭 I’m currently working on [Discord.py](https://discordpy.readthedocs.io/en/stable/)
 
-- 🔭 I’m currently working on **My Discord Bot Loofah**
+- 🌱 I’m currently learning - **Discord.py, HTML & CSS**
 
-- 🌱 I’m currently learning **Discord.py, HTML & CSS**
+- 🤝 I’m looking for help with - **Discord.py**
 
-- 🤝 I’m looking for help with **Discord.py**
+- 📫 How to reach me - **Not much active with email DM me on Discord: Kunnu#2786**
 
-- 📫 How to reach me **Not much active with email DM me on Discord: Kunnu#2786**
-
-- ⚡ Hobbies **Ordinary Gamer, Weeb, BTS, Coding**
-
+- ⚡ Hobbies - **Ordinary Gamer, Weeb, BTS, Coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
