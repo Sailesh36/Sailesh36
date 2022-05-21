@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sailesh a.k.a Kunnu</h1>
 <h3 align="center">Just a normal guy who's still learning to program and is passionate about computers....</h3>
+<p align="right"><img src="https://c.tenor.com/TyhWL7gJwPgAAAAj/peppo-dance.gif" alt="some random gif..." width="300" /></p>
 
 
-<p><img align="right" src="https://c.tenor.com/TyhWL7gJwPgAAAAj/peppo-dance.gif" alt="some random gif..." width="300" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sailesh36&label=Profile%20views&color=0e75b6&style=flat" alt="sailesh36" /> </p>
 
 - 🔭 I’m currently working on **My Discord Bot Loofah**
@@ -14,6 +14,7 @@
 - 📫 How to reach me **Not much active with email DM me on Discord: Kunnu#2786**
 
 - ⚡ Hobbies **Ordinary Gamer, Weeb, BTS, Coding**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
