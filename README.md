@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sailesh36&label=Profile%20views&color=0e75b6&style=flat" alt="sailesh36" /> </p>
 
-<p align="right"><img src="https://c.tenor.com/TyhWL7gJwPgAAAAj/peppo-dance.gif" alt="some random gif..." width="50" /></p>
+<p align="left"><img src="https://c.tenor.com/TyhWL7gJwPgAAAAj/peppo-dance.gif" alt="some random gif..." width="50" /></p>
 
 - 🔭 I’m currently working on **My Discord Bot Loofah**
 
