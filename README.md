@@ -11,7 +11,7 @@
 
 - 📫 How to reach me - **Not much active with email DM me on Discord: Kunnu#2786**
 
-- ⚡ Hobbies - **Ordinary Gamer, Weeb, BTS, Coding**
+- ⚡ Hobbies - **Ordinary Gamer, Weeb, K-pop, Music, Coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
